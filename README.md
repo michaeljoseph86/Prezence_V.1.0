@@ -1,8 +1,8 @@
-# Arduino Nano
+# Prezence V.1.0
 
-**Arduino Nano** using **ATMEGA328P-MUR** and **FT232RL** USB UART interface Integrated Circuit with USB Type C Connector
+**Prezence V.1.0** is a RFID door lock access control system based on ESP32 module and RC522 RFID sensor
 
-### PCB Top View
+### 3D Model of PCB
 
 ![Tux, the Linux mascot](https://i.imgur.com/8xvjM5J.png)
 
@@ -11,7 +11,6 @@
 - _3D_Files:_
   - 3D_PDF_Model.pdf - A 3D model of the PCB (can be viewed using Adobe Acrobat)
   - 3D_Step_File.step - Step file of the PCB
-- _Board_Assembly:_ Pick and Place file and BOM (LCSC Part # column in BOM must be filled with Part #, JLCPCB Part # if using JLCPCB for manufacturing)
 - _PCB_Manufacturing:_ Gerber output and NC Drill files
 - _Schematic:_ The PDF contains Schematic, PCB view and BOM.
 
