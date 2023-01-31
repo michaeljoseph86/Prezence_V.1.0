@@ -4,11 +4,7 @@
 
 ### PCB Top View
 
-![Tux, the Linux mascot](https://i.imgur.com/wZwFo1l.png)
-
-### PCB Bottom View
-
-![Tux, the Linux mascot](https://i.imgur.com/XASrbMq.png)
+![Tux, the Linux mascot](https://i.imgur.com/8xvjM5J.png)
 
 ### Current repository folder structure:
 
